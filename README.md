@@ -10,9 +10,9 @@ The purpose of the project is to:
 - Establish a new benchmark for the resilience of instructional technology to online disturbances.
 
 ### Core Features
--**AI Chatbot Interface**        : A chatbot driven by natural language processing (NLP) that provides instantaneous responses to frequently asked questions about campus, class schedules, bus timetables, cafeteria                                        menus, and event updates.
--**Data Verification & Security**: Strong procedures to identify and stop manipulated data from Vexora's compromised networks.
--**Multilingual & Voice Support**: Speech APIs are used to enable voice interaction in Sinhala and Tamil.
--**Offline Functionality**       : During connectivity failures, scheduled information and menus are cached for access.
--**Cross-Platform Accessibility**: Having user-friendly and responsive interfaces, it is accessible on both web and mobile devices.
--**Administrative Dashboard**    : Content management, analytics, and continuous improvement tools based on feedback from users.
+- **AI Chatbot Interface**        : A chatbot driven by natural language processing (NLP) that provides instantaneous responses to frequently asked questions about campus, class schedules, bus timetables, cafeteria                                        menus, and event updates.
+- **Data Verification & Security**: Strong procedures to identify and stop manipulated data from Vexora's compromised networks.
+- **Multilingual & Voice Support**: Speech APIs are used to enable voice interaction in Sinhala and Tamil.
+- **Offline Functionality**       : During connectivity failures, scheduled information and menus are cached for access.
+- **Cross-Platform Accessibility**: Having user-friendly and responsive interfaces, it is accessible on both web and mobile devices.
+- **Administrative Dashboard**    : Content management, analytics, and continuous improvement tools based on feedback from users.
